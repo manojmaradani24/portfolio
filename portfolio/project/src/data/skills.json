@@ -1,0 +1,13 @@
+{
+  "skills": [
+    { "name": "HTML", "level": 85, "icon": "Code", "category": "language" },
+    { "name": "CSS", "level": 80, "icon": "PaintBucket", "category": "language" },
+    { "name": "JavaScript", "level": 50, "icon": "FileJson", "category": "language" },
+    { "name": "TypeScript", "level": 60, "icon": "File", "category": "language" },
+    { "name": "React", "level": 40, "icon": "Atom", "category": "framework" },
+    { "name": "Tailwind CSS", "level": 80, "icon": "Wind", "category": "framework" },
+    { "name": "Git", "level": 30, "icon": "GitBranch", "category": "tool" },
+    { "name": "Figma", "level": 65, "icon": "Figma", "category": "tool" },
+    { "name": "VS Code", "level": 85, "icon": "Code2", "category": "tool" }
+  ]
+}

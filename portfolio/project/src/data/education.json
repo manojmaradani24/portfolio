@@ -1,0 +1,34 @@
+{
+  "education": [
+    {
+      "id": 1,
+      "institution": "Vishnu Institue of Technology",
+      "degree": "Bachelor of Technology",
+      "field": "Computer Science and Engineering",
+      "startDate": "2023",
+      "endDate": "2027",
+      "description": "Currently in 2nd year, focusing on core computer science subjects and front-end development.",
+      "location": "BHIMAVARAM, ANDHRA PRADESH"
+    },
+    {
+      "id": 2,
+      "institution": "TIRUMALA JUNIOR HIGHER SECONDARY School",
+      "degree": "Higher Secondary (12th)",
+      "field": "MPC",
+      "startDate": "2021",
+      "endDate": "2023",
+      "description": "Completed higher secondary education with focus on Physics, Chemistry and Mathematics.",
+      "location": "BHIMAVARAM, ANDHRA PRADESH"
+    },
+    {
+      "id": 3,
+      "institution": "Sadhana The School Of Excellence",
+      "degree": "Secondary (10th)",
+      "field": "CBSE",
+      "startDate": "2019",
+      "endDate": "2021",
+      "description": "Completed secondary education with distinction.",
+      "location": "GANAPAVARAM, ANDHRA PRADESH"
+    }
+  ]
+}
